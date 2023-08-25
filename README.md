@@ -52,22 +52,27 @@ Polymorphism: Virtual functions in the Transaction class allow for different typ
 
 To run this Banking Management System project, follow these steps:
 
-1. Clone the Repository
+**1. Clone the Repository**
+
 First, clone this GitHub repository to your local machine. You can do this by running the following command in your terminal:
 git clone https://github.com/adhassanza/Banking_Managent_System.git
 
-2. Compile the Code
+**2. Compile the Code**
+
 Navigate to the project directory using the terminal:
 cd YourRepository
 Compile the C++ code using a C++ compiler (e.g., g++):
 g++ -o mybankingapp code.cpp
 
-3. Run the Program
+**3. Run the Program**
+
 Once the compilation is successful (ensure there are no compilation errors), you can run the program using the following command:
 ./mybankingapp
 
-4. Use the Menu-Driven Interface
+**4. Use the Menu-Driven Interface**
+
 Your program will start running, and you should see the menu-driven interface for the banking management system. Follow the prompts and choose the desired options to interact with the system.
 
-5. Exiting the Program
+**5. Exiting the Program**
+
 Typically, you can exit the program by selecting an option like "Quit" from the menu. If you implemented a different way to exit, follow that procedure.
